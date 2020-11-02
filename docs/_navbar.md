@@ -1,4 +1,4 @@
-* [<i class="fa fa-paper-plane-o fa-1x"></i> 主页](http://localhost:3000/#/README)
+* [<i class="fa fa-paper-plane-o fa-1x"></i> 主页](https://spiritmark.top/#/README)
     * [📑 计算机基础](README?id=📑-计算机基础)
     * [🍵 Java](README?id=🍵-java)
     * [🎨 前端](README?id=🎨-前端)
